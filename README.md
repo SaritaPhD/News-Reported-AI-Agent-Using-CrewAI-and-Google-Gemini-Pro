@@ -11,3 +11,6 @@ This project leverages the capabilities of CrewAI and Google Generative AI model
 - Create a .env file in the project root directory with your Google API key:
 - GOOGLE_API_KEY=your_google_api_key_here
 - SERPER_API_KEY=your_serper_api_key_here
+
+## Usage
+- python crew.py
