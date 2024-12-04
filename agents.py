@@ -6,7 +6,7 @@ from langchain_google_genai import ChatGoogleGenerativeAI
 import os
 
 
-## call the gemini models
+# Call the gemini models
 llm=ChatGoogleGenerativeAI(model="gemini-1.5-flash",
                            verbose=True,
                            temperature=0.5,
