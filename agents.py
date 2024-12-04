@@ -31,7 +31,7 @@ news_researcher=Agent(
 
 )
 
-## creating a write agent with custom tools responsible in writing news blog
+# Creating a write agent with custom tools responsible in writing news blog
 
 news_writer = Agent(
   role='Writer',
